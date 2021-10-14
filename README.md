@@ -7,10 +7,8 @@ Front-end:
 - CSS
 - SCSS
 - JavaScript
-- Vue.js
-- Vuetify
-
-Back-end: 
+- React
+- Next.js
 - Firebase
 
 Project initially created for HackHeroes 2021 hackathon.

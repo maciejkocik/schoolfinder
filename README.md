@@ -11,4 +11,3 @@ Front-end:
 - Next.js
 - Firebase
 
-Project initially created for HackHeroes 2021 hackathon.
